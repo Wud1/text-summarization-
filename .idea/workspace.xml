@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f27358f-2e99-44b1-ab6b-fa534144e101" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eqPYHPW4CkXoNRMhyYA2I4y7w7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wbzy" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\text_summarization\utils" />
+      <recent name="C:\Users\Administrator\Desktop\text_summarization\data_processing" />
+      <recent name="C:\Users\Administrator\Desktop\text_summarization\DATA" />
+      <recent name="C:\Users\Administrator\Desktop\text_summarization\W2V" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\text_summarization\DATA" />
+      <recent name="C:\Users\Administrator\Desktop\text_summarization\data" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f27358f-2e99-44b1-ab6b-fa534144e101" name="Default Changelist" comment="" />
+      <created>1595046195905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595046195905</updated>
+      <workItem from="1595046204486" duration="5711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="854" y="365" key="FileChooserDialogImpl" timestamp="1595049327145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="854" y="365" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595049327145" />
+    <state x="926" y="320" key="SettingsEditor" timestamp="1595048056737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="926" y="320" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595048056737" />
+  </component>
+</project>
